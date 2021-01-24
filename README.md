@@ -27,9 +27,7 @@
 <a href="https://github.com/this-sunil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-sunil&theme=light" />
 </a><br><br>
-<a href="https://github.com/this-sunil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-sunil&repo=Music-Player&theme=light" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/this-sunil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-sunil&repo=DataTable&theme=light"/>
 </a>
