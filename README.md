@@ -21,12 +21,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
-<a href="https://github.com/this-sunil">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=this-sunil&&show_icons=true&title_color=0000ff&text_color=0000ff&bg_color=ffffff" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/this-sunil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-sunil&theme=light" />
-</a><br><br>
+
 
 <a href="https://github.com/this-sunil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-sunil&repo=DataTable&theme=light"/>
