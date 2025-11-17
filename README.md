@@ -30,6 +30,11 @@ Passionate about building clean, modern, and efficient applications.
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"/></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"/></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"/></code>
+
 
 ---
 
