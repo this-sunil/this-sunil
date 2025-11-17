@@ -42,19 +42,8 @@ Passionate about building clean, modern, and efficient applications.
 
 ---
 
-### 📌 Featured Project
-![Working]https://github.com/this-sunil/farmer_brand
 
 
----
-
-### 📊 GitHub Stats
-
-![Sunil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=this-sunil&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=this-sunil&layout=compact&theme=default)
-
----
 
 ### 🌐 Connect With Me
 
