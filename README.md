@@ -8,7 +8,7 @@ Passionate about building clean, modern, and efficient applications.
 ### 🚀 About Me
 
 - 🔭 I’m **Flutter Developer**  
-- 🌱 I’m currently learning **advanced Flutter architecture (Bloc, Riverpod), Firebase, API integration**
+- 🌱 I’m currently learning **advanced Flutter architecture (Bloc, GETX,Provider), Firebase,Firebase Push Notification, API integration**
 - 👯 I’m looking to collaborate on **Flutter apps, UI/UX rich mobile applications, and web projects**
 - 🤔 I’m looking for help with **optimizing performance in complex Flutter applications**
 - 💬 Ask me about:  
