@@ -12,7 +12,7 @@ Passionate about building clean, modern, and efficient applications.
 - 👯 I’m looking to collaborate on **Flutter apps, UI/UX rich mobile applications, and web projects**
 - 🤔 I’m looking for help with **optimizing performance in complex Flutter applications**
 - 💬 Ask me about:  
-  **Web Development & Android Development with Flutter**
+  **Flutter Developer With Web Developer**
 - 📫 Reach me at:  
   **https://portfolio-3261f.web.app/**
 - 😄 Pronouns: **He / His**
@@ -61,7 +61,7 @@ Passionate about building clean, modern, and efficient applications.
 
 ### 🌐 Connect With Me
 
-👉 **Portfolio:** https://this-sunil.github.io/  
+👉 **Portfolio:** https://portfolio-3261f.web.app/
 👉 **GitHub:** https://github.com/this-sunil  
 
 ---
