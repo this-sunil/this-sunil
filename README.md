@@ -24,18 +24,17 @@ Passionate about building clean, modern, and efficient applications.
 
 
 ### 🛠️ Languages & Tools
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"/></code>
 
 
 ---
