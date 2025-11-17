@@ -45,8 +45,9 @@ Passionate about building clean, modern, and efficient applications.
 ### 📌 Featured Project
 
 <a href="https://github.com/this-sunil/DataTable">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-sunil&repo=DataTable&theme=light" />
+  <img align="center" src="https://github-readme-stats-git-masterorgs-githubstats.vercel.app/api/pin/?username=this-sunil&repo=DataTable&theme=light" />
 </a>
+
 
 ---
 
