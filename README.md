@@ -21,6 +21,8 @@ Passionate about building clean, modern, and efficient applications.
 
 ---
 
+
+
 ### 🛠️ Languages & Tools
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"/></code>
@@ -48,7 +50,10 @@ Passionate about building clean, modern, and efficient applications.
 ---
 
 
-
+## 📈 Activity Graph
+<p align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=this-sunil&theme=minimal"/>
+</p>
 
 ### 🌐 Connect With Me
 
