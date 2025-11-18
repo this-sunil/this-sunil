@@ -3,8 +3,6 @@
 ### 👨‍💻 Flutter Developer | Web Developer  
 Passionate about building clean, modern, and efficient applications.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=this-sunil&label=Views&color=blue&style=plastic&style=for-the-badge" alt="this-sunil" /> </p>
-
 ### 🚀 About Me
 
 - 🔭 I’m **Flutter Developer**  
