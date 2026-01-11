@@ -1,27 +1,26 @@
 # 🐝 Hi Friends, I'm [Sunil](https://this-sunil.github.io/)! 🐝
 
-👨‍💻 Senior Flutter Developer | Web Developer
+👨‍💻 #Senior Flutter Developer | Web Developer
 
-Passionate about building clean, modern, and efficient applications.
+🚀 Building clean, scalable, and high-performance mobile & web applications
 
-🚀 About Me
+💡 #About Me
 
-🔭 I’m a Senior Flutter Developer with strong web development experience
+🔭 #Senior Flutter Developer with strong experience in web development
 
-🌱 I’m currently learning React.js, Node.js, and Express.js to strengthen my full-stack development skills
+🌱 Currently learning #React.js, #Node.js, and #Express.js to grow as a Full-Stack Developer
 
-👯 I’m looking to collaborate on Flutter applications, modern web apps, and full-stack projects
+👯 Open to collaborating on Flutter apps, modern web applications, and full-stack projects
 
-🤔 I’m looking for help with optimizing performance in complex Flutter applications and scalable web architectures
+🤔 Interested in performance optimization, scalable architectures, and clean code practices
 
-💬 Ask me about: Flutter development, web development, and full-stack application design
+💬 Ask me about Flutter, Web Development, APIs, and Application Architecture
 
-📫 Reach me at: https://portfolio-3261f.web.app/
+📫 #Portfolio: https://portfolio-3261f.web.app/
 
 😄 Pronouns: He / His
 
 ⚡ Fun fact: I can spend hours debugging — and still enjoy it!
-
 
 
 
