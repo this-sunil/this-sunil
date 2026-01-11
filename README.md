@@ -54,12 +54,3 @@
 - 🔗 **LinkedIn:** [https://www.linkedin.com/in/sunilshedge/](https://www.linkedin.com/in/sunilshedge/)  
 
 ---
-
-## 💳 GitHub Profile Summary
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=this-sunil&theme=vue" />
-</p>
-
----
-
-🔥 *Thanks for visiting my profile! Looking forward to collaborating on exciting projects.*
