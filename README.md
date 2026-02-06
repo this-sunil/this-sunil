@@ -1,6 +1,7 @@
 # 🐝 Hi Friends, I'm [Sunil](https://this-sunil.github.io/)! 🐝
 
-👨‍💻 **Senior Flutter Developer | Web Developer**  
+👨‍💻 **Senior Flutter Developer | Web Developer**   ![Profile Views](https://komarev.com/ghpvc/?username=this-sunil&label=Profile%20Views&color=0e75b6&style=flat)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=this-sunil)
 
 🚀 Building **clean, scalable, and high-performance mobile & web applications**  
 
@@ -46,8 +47,10 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=this-sunil&label=Profile%20Views&color=0e75b6&style=flat)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=this-sunil)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=this-sunil&show_icons=true)
+
 
 
 
