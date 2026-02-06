@@ -48,20 +48,8 @@
 ---
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=this-sunil&show_icons=true&theme=dark&count_private=true&include_all_commits=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=this-sunil&show_icons=true&count_private=true&include_all_commits=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=this-sunil&show_icons=true&count_private=true&include_all_commits=true"
-    alt="this-sunil GitHub stats"
-  />
-</picture>
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=this-sunil&theme=github-dark)
+
 
 
 
