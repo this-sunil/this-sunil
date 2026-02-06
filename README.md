@@ -21,6 +21,14 @@
 - ⚡ Fun fact: *I can spend hours debugging — and still enjoy it!*  
 
 ---
+## 🌐 Connect With Me
+
+- 🌐 **Portfolio:** [https://farmer-brand.vercel.app/](https://farmer-brand.vercel.app/)  
+- 💼 **GitHub:** [https://github.com/this-sunil](https://github.com/this-sunil)  
+- 📧 **Email:** [swarajya888@gmail.com)  
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/sunilshedge/](https://www.linkedin.com/in/sunilshedge/)  
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -65,11 +73,4 @@
 
 
 
-## 🌐 Connect With Me
 
-- 🌐 **Portfolio:** [https://farmer-brand.vercel.app/](https://farmer-brand.vercel.app/)  
-- 💼 **GitHub:** [https://github.com/this-sunil](https://github.com/this-sunil)  
-- 📧 **Email:** [swarajya888@gmail.com)  
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/sunilshedge/](https://www.linkedin.com/in/sunilshedge/)  
-
----
