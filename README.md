@@ -47,8 +47,9 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=this-sunil&show_icons=true&theme=dark)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=this-sunil&theme=darkhub&row=1&no-frame=true)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=this-sunil&theme=github-dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=this-sunil&theme=darkhub)
+
 
 
 
