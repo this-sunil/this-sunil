@@ -25,7 +25,7 @@
 
 - 🌐 **Portfolio:** [https://farmer-brand.vercel.app/](https://farmer-brand.vercel.app/)  
 - 💼 **GitHub:** [https://github.com/this-sunil](https://github.com/this-sunil)  
-- 📧 **Email:** [swarajya888@gmail.com)  
+- 📧 **Email:** [swarajya888@gmail.com](swarajya888@gmail.com)  
 - 🔗 **LinkedIn:** [https://www.linkedin.com/in/sunilshedge/](https://www.linkedin.com/in/sunilshedge/)  
 
 ---
