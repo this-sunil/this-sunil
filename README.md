@@ -13,7 +13,7 @@
 - 👯 Open to collaborating on **Flutter apps, modern web applications, and full-stack projects**  
 - 🤔 Passionate about **performance optimization, scalable architectures, and clean code practices**  
 - 💬 Ask me about **Flutter, Web Development, APIs, and Application Architecture**  
-- 📫 **Portfolio:** [https://portfolio-3261f.web.app/](https://portfolio-3261f.web.app/)  
+- 📫 **Portfolio:** [https://farmer-brand.vercel.app/](https://farmer-brand.vercel.app/)
 - 😄 Pronouns: **He / His**  
 - ⚡ Fun fact: *I can spend hours debugging — and still enjoy it!*  
 
@@ -45,6 +45,11 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=this-sunil&label=Profile%20Views&color=0e75b6&style=flat)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=this-sunil)
+
+
 
 ## 🌐 Connect With Me
 
