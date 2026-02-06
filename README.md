@@ -7,6 +7,9 @@
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=this-sunil)
+
+
 ## 💡 About Me
 
 - 🔭 **Senior Flutter Developer** with 3+ years of experience  
@@ -48,7 +51,7 @@
 ---
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=this-sunil&theme=github-dark)
-![Stats](https://github-readme-stats.vercel.app/api?username=this-sunil&show_icons=true&theme=dark)
+
 
 
 
