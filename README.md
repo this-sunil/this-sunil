@@ -49,7 +49,9 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=this-sunil&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=this-sunil&count_private=true&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=this-sunil&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=pr)
+
 
 
 
