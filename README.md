@@ -48,7 +48,7 @@
 ---
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=this-sunil&theme=onedark)](https://github.com/this-sunil/github-profile-trophy)
+![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=this-sunil&show_icons=true&theme=radical)
 
 
 
