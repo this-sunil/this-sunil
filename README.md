@@ -11,7 +11,7 @@
 
 ## 💡 About Me
 
-- 🔭 **Senior Flutter Developer** with 3+ years of experience  
+- 🔭 **Senior Flutter Developer** with 4+ years of experience  
 - 🌱 Currently learning **React.js, Node.js, and Express.js** to grow as a **Full-Stack Developer**  
 - 👯 Open to collaborating on **Flutter apps, modern web applications, and full-stack projects**  
 - 🤔 Passionate about **performance optimization, scalable architectures, and clean code practices**  
