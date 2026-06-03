@@ -60,13 +60,7 @@
 
 
 
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/KyMtUvTrKJc"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
+[![Watch Demo](images/video-card.png)](https://www.youtube.com/watch?v=KyMtUvTrKJc)
 
 
 
