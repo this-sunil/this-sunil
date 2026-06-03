@@ -58,9 +58,9 @@
 ---
 
 
+[![Video Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=KyMtUvTrKJc)
 
 
-[![Watch Demo](images/video-card.png)](https://www.youtube.com/watch?v=KyMtUvTrKJc)
 
 
 
