@@ -58,8 +58,20 @@
 ---
 
 
-[![Video Demo](https://img.youtube.com/vi/KyMtUvTrKJc/maxresdefault.jpg)](https://www.youtube.com/watch?v=KyMtUvTrKJc)
-[![Video Demo](https://img.youtube.com/vi/fXcrOBtX2Ac/maxresdefault.jpg)](https://www.youtube.com/watch?v=fXcrOBtX2Ac)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=KyMtUvTrKJc">
+        <img src="https://img.youtube.com/vi/KyMtUvTrKJc/0.jpg" width="400" alt="Video 1">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=fXcrOBtX2Ac">
+        <img src="https://img.youtube.com/vi/fXcrOBtX2Ac/0.jpg" width="400" alt="Video 2">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
