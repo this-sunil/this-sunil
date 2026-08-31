@@ -60,7 +60,7 @@
 
 ---
 
-# 🚗 Vehicle Repair Service (https://github.com/this-sunil/vehiclerepairservice/blob/main/README.md)
+# 🚗 Vehicle Repair Service
 
 A Flutter-based vehicle repair service application for managing vehicle repair and service operations.
 
