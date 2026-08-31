@@ -84,18 +84,16 @@ A Flutter-based vehicle repair service application for managing vehicle repair a
 
 ## 📖 About The Project
 
-| Item | Details |
-|:---|:---|
-| Project Name | Vehicle Repair Service |
-| Platform | Android / iOS |
-| Framework | Flutter |
-| Language | Dart |
-| Architecture | Repository Pattern |
-| Backend | REST API |
-| Testing | Flutter Test |
-| Current Status | 🟢 Active Development |
+## API Overview
 
----
+| # | API | Description | Status |
+|:---|:---|:---|:---|
+| 1 | Register | Create a new user account | ✅ |
+| 2 | Login | Authenticate an existing user | ✅ |
+| 3 | Fetch Profile | Retrieve user profile | ✅ |
+| 4 | Update Profile | Update user profile | ✅ |
+
+
 
 ## ✨ Features
 
@@ -117,17 +115,7 @@ A Flutter-based vehicle repair service application for managing vehicle repair a
 | 3 | Fetch Profile | Retrieve user profile | ✅ Passed |
 | 4 | Update Profile | Update user profile | ✅ Passed |
 
-## 🧪 Unit Testing
 
-| Item | Details |
-|:---|:---|
-| Test Framework | Flutter Test |
-| Repository | `AuthRepository` |
-| Test File | `test/auth_repository_test.dart` |
-| Total Tests | 4 |
-| Passed | 4 ✅ |
-| Failed | 0 ❌ |
-| Success Rate | 100% 🎉 |
 
 <table>
   <tr>
@@ -192,14 +180,6 @@ vehicle_repair_service/
 
 The AuthRepository is responsible for authentication and user profile API operations.
 
-## API Overview
-
-| # | API | Description | Status |
-|:---|:---|:---|:---|
-| 1 | Register | Create a new user account | ✅ |
-| 2 | Login | Authenticate an existing user | ✅ |
-| 3 | Fetch Profile | Retrieve user profile | ✅ |
-| 4 | Update Profile | Update user profile | ✅ |
 
 🧪 Unit Testing
 
@@ -214,6 +194,7 @@ flutter test test/auth_repository_test.dart
 
 ## Run All Tests
 flutter test
+```
 
 ## 📊 Test Results
 
@@ -233,7 +214,7 @@ flutter test
 | Failed | 0 ❌ |
 | Success Rate | 100% 🎉 |
 
-
+```
 🔍 Test Output
 00: AuthRepository Register
     ✓ register API should show result
