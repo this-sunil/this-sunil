@@ -207,9 +207,11 @@ flutter test
 ✓ All tests passed!
 
 🌐 API Documentation
+```
 
 1. 📝 Register API
 Response
+
 ```json
 {
     "status": true,
@@ -223,7 +225,6 @@ Response
         "created_at": "2026-08-31T11:18:43.344Z"
     }
 }
-
 ```
 
 Status: ✅ Passed
