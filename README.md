@@ -58,20 +58,6 @@
 ---
 
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=KyMtUvTrKJc">
-        <img src="https://img.youtube.com/vi/KyMtUvTrKJc/0.jpg" width="400" alt="Video 1">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=fXcrOBtX2Ac">
-        <img src="https://img.youtube.com/vi/fXcrOBtX2Ac/0.jpg" width="400" alt="Video 2">
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 
@@ -79,7 +65,8 @@
 
 
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=this-sunil&theme=github-dark)
+
+
 
 # 🚗 Vehicle Repair Service
 
@@ -117,6 +104,21 @@ A Flutter-based vehicle repair service application for managing vehicle repair a
 | ✏️ Update Profile | Update user information | ✅ |
 | 🌐 REST API | Backend API integration | ✅ |
 | 🧪 Unit Testing | Authentication API testing | ✅ |
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=KyMtUvTrKJc">
+        <img src="https://img.youtube.com/vi/KyMtUvTrKJc/0.jpg" width="400" alt="Video 1">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=fXcrOBtX2Ac">
+        <img src="https://img.youtube.com/vi/fXcrOBtX2Ac/0.jpg" width="400" alt="Video 2">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
