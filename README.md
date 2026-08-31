@@ -108,6 +108,27 @@ A Flutter-based vehicle repair service application for managing vehicle repair a
 | 🌐 REST API | Backend API integration | ✅ |
 | 🧪 Unit Testing | Authentication API testing | ✅ |
 
+## 🔐 Authentication APIs
+
+| # | API | Purpose | Status |
+|:---:|:---|:---|:---:|
+| 1 | Register | Create a new user account | ✅ Passed |
+| 2 | Login | Authenticate an existing user | ✅ Passed |
+| 3 | Fetch Profile | Retrieve user profile | ✅ Passed |
+| 4 | Update Profile | Update user profile | ✅ Passed |
+
+## 🧪 Unit Testing
+
+| Item | Details |
+|:---|:---|
+| Test Framework | Flutter Test |
+| Repository | `AuthRepository` |
+| Test File | `test/auth_repository_test.dart` |
+| Total Tests | 4 |
+| Passed | 4 ✅ |
+| Failed | 0 ❌ |
+| Success Rate | 100% 🎉 |
+
 <table>
   <tr>
     <td align="center">
@@ -138,31 +159,9 @@ A Flutter-based vehicle repair service application for managing vehicle repair a
 
 ---
 
-## 🔐 Authentication APIs
 
-| # | API | Purpose | Status |
-|:---:|:---|:---|:---:|
-| 1 | Register | Create a new user account | ✅ Passed |
-| 2 | Login | Authenticate an existing user | ✅ Passed |
-| 3 | Fetch Profile | Retrieve user profile | ✅ Passed |
-| 4 | Update Profile | Update user profile | ✅ Passed |
-
----
-
-## 🧪 Unit Testing
-
-| Item | Details |
-|:---|:---|
-| Test Framework | Flutter Test |
-| Repository | `AuthRepository` |
-| Test File | `test/auth_repository_test.dart` |
-| Total Tests | 4 |
-| Passed | 4 ✅ |
-| Failed | 0 ❌ |
-| Success Rate | 100% 🎉 |
 
 ### Run Tests
-
 
 # 🧪 AuthRepository API Testing
 
