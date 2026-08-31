@@ -210,7 +210,7 @@ flutter test
 
 1. 📝 Register API
 Response
-```json
+```
 {
     "status": true,
     "msg": "User register Successfully !!!",
