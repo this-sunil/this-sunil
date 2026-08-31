@@ -81,6 +81,433 @@
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=this-sunil&theme=github-dark)
 
+# 🚗 Vehicle Repair Service
+
+A Flutter-based vehicle repair service application for managing vehicle repair and service operations.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-Integrated-blue?style=for-the-badge)
+![Tests](https://img.shields.io/badge/Tests-4%2F4_Passed-brightgreen?style=for-the-badge)
+
+---
+
+## 📖 About The Project
+
+| Item | Details |
+|:---|:---|
+| Project Name | Vehicle Repair Service |
+| Platform | Android / iOS |
+| Framework | Flutter |
+| Language | Dart |
+| Architecture | Repository Pattern |
+| Backend | REST API |
+| Testing | Flutter Test |
+| Current Status | 🟢 Active Development |
+
+---
+
+## ✨ Features
+
+| Feature | Description | Status |
+|:---|:---|:---:|
+| 👤 User Registration | Create a new user account | ✅ |
+| 🔐 User Login | Authenticate registered users | ✅ |
+| 👤 Fetch Profile | Retrieve user profile | ✅ |
+| ✏️ Update Profile | Update user information | ✅ |
+| 🌐 REST API | Backend API integration | ✅ |
+| 🧪 Unit Testing | Authentication API testing | ✅ |
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|:---|:---|
+| Flutter | Mobile Application Framework |
+| Dart | Programming Language |
+| REST API | Backend Communication |
+| AuthRepository | Authentication API Layer |
+| Repository Pattern | Application Architecture |
+| Flutter Test | Unit Testing |
+
+---
+
+## 🔐 Authentication APIs
+
+| # | API | Purpose | Status |
+|:---:|:---|:---|:---:|
+| 1 | Register | Create a new user account | ✅ Passed |
+| 2 | Login | Authenticate an existing user | ✅ Passed |
+| 3 | Fetch Profile | Retrieve user profile | ✅ Passed |
+| 4 | Update Profile | Update user profile | ✅ Passed |
+
+---
+
+## 🧪 Unit Testing
+
+| Item | Details |
+|:---|:---|
+| Test Framework | Flutter Test |
+| Repository | `AuthRepository` |
+| Test File | `test/auth_repository_test.dart` |
+| Total Tests | 4 |
+| Passed | 4 ✅ |
+| Failed | 0 ❌ |
+| Success Rate | 100% 🎉 |
+
+### Run Tests
+If you mean you want the exact content from your previous message converted into proper README.md Markdown, without changing the information, use this:
+
+# 🧪 AuthRepository API Testing
+
+## Run Test
+GitHub Markdown Format (`README.md`) me exact GitHub-styled tables ke saath document template:
+
+```markdown
+vehicle_repair_service/
+│
+├── android/
+├── ios/
+│
+├── lib/
+│   ├── models/
+│   ├── repositories/
+│   │   └── auth_repository.dart
+│   ├── services/
+│   ├── screens/
+│   └── main.dart
+│
+├── test/
+│   └── auth_repository_test.dart
+│
+├── pubspec.yaml
+└── README.md
+
+🔐 Authentication
+
+The AuthRepository is responsible for authentication and user profile API operations.
+
+## API Overview
+
+| # | API | Description | Status |
+|:---|:---|:---|:---|
+| 1 | Register | Create a new user account | ✅ |
+| 2 | Login | Authenticate an existing user | ✅ |
+| 3 | Fetch Profile | Retrieve user profile | ✅ |
+| 4 | Update Profile | Update user profile | ✅ |
+
+🧪 Unit Testing
+
+The AuthRepository has been tested using Flutter's built-in testing framework.
+
+Test File
+test/
+└── auth_repository_test.dart
+
+Run AuthRepository Tests
+flutter test test/auth_repository_test.dart
+
+## Run All Tests
+flutter test
+
+## 📊 Test Results
+
+| # | Repository | Test Case | Status |
+|:---:|:---|:---|:---:|
+| 01 | AuthRepository | Register API | ✅ Passed |
+| 02 | AuthRepository | Login API | ✅ Passed |
+| 03 | AuthRepository | Fetch Profile API | ✅ Passed |
+| 04 | AuthRepository | Update Profile API | ✅ Passed |
+
+## 📋 Test Summary
+
+| Metric | Result |
+|:---|:---:|
+| Total Tests | 4 |
+| Passed | 4 ✅ |
+| Failed | 0 ❌ |
+| Success Rate | 100% 🎉 |
+
+
+🔍 Test Output
+00: AuthRepository Register
+    ✓ register API should show result
+
+01: AuthRepository Login
+    ✓ login API should show result
+
+02: AuthRepository Fetch Profile
+    ✓ fetchProfile API should show result
+
+03: AuthRepository Update Profile
+    ✓ updateProfile API should show result
+
+────────────────────────────────────────────
+
+✓ All tests passed!
+
+🌐 API Documentation
+
+1. 📝 Register API
+Response
+```json
+{
+    "status": true,
+    "msg": "User register Successfully !!!",
+    "result": {
+        "id": 27,
+        "name": "Abhinav Jadhav",
+        "phone": "9887675778",
+        "photo": "",
+        "role": "user",
+        "created_at": "2026-08-31T11:18:43.344Z"
+    }
+}
+
+```
+
+Status: ✅ Passed
+
+2. 🔐 Login API
+Response
+
+```json
+{
+    "status": true,
+    "msg": "Login Successfully !!!",
+    "result": {
+        "id": 27,
+        "name": "Abhinav Jadhav",
+        "phone": "9887675778",
+        "photo": "",
+        "role": "user",
+        "created_at": "2026-08-31T11:18:43.344Z"
+    }
+}
+
+```
+
+Status: ✅ Passed
+
+3. 👤 Fetch Profile API
+Response
+
+```json
+{
+    "status": true,
+    "msg": "Fetch User Successfully",
+    "result": {
+        "id": 27,
+        "name": "Abhinav Jadhav",
+        "phone": "9887675778",
+        "photo": "",
+        "role": "user",
+        "created_at": "2026-08-31T11:18:43.344Z"
+    }
+}
+
+```
+
+Status: ✅ Passed
+
+4. ✏️ Update Profile API
+Response
+
+```json
+{
+    "status": true,
+    "msg": "Update Profile Successfully !!!",
+    "result": {
+        "id": 27,
+        "name": "Sunil Shedge",
+        "phone": "9887675759",
+        "photo": "",
+        "role": "user",
+        "created_at": "2026-08-31T11:18:43.344Z"
+    }
+}
+
+```
+
+Status: ✅ Passed
+
+## 📋 API Test Matrix
+
+| API | Response Status | Result | Test |
+| :--- | :--- | :--- | :--- |
+| Register | true | User registered successfully | ✅ Passed |
+| Login | true | Login successful | ✅ Passed |
+| Fetch Profile | true | User profile fetched successfully | ✅ Passed |
+| Update Profile | true | User profile updated successfully | ✅ Passed |
+
+🚀 Getting Started
+
+Prerequisites
+
+Before running the application, make sure the following are installed:
+
+* Flutter SDK
+* Dart SDK
+* Android Studio or VS Code
+* Android Emulator or Physical Android Device
+
+Installation
+
+1. Clone the Repository
+
+```bash
+git clone https://github.com/this-sunil/vehiclerepairservice.git
+
+```
+
+2. Navigate to the Project
+
+```bash
+cd vehicle_repair_service
+
+```
+
+3. Install Dependencies
+
+```bash
+flutter pub get
+
+```
+
+4. Run the Application
+
+```bash
+flutter run
+
+```
+
+🏗️ Architecture
+
+The project follows a repository-based architecture.
+
+```
+┌─────────────────────┐
+│      Flutter UI     │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│   AuthRepository    │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│       REST API      │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│    Backend Server   │
+└─────────────────────┘
+
+```
+
+AuthRepository Responsibilities
+
+* Handle authentication requests
+* Handle profile requests
+* Communicate with REST APIs
+* Process API responses
+* Keep API logic separate from UI
+
+🔄 Authentication Flow
+
+```
+User
+  │
+  ▼
+Flutter UI
+  │
+  ▼
+AuthRepository
+  │
+  ▼
+REST API
+  │
+  ▼
+Backend
+  │
+  ▼
+JSON Response
+  │
+  ▼
+Flutter UI
+
+```
+
+## 📈 Current Test Status
+
+| Component | Status |
+|:---|:---|
+| Register API | 🟢 Working |
+| Login API | 🟢 Working |
+| Fetch Profile API | 🟢 Working |
+| Update Profile API | 🟢 Working |
+| AuthRepository | 🟢 Working |
+| Unit Tests | 🟢 Passing |
+
+## 🎯 Final Result
+
+AuthRepository API integration is working as expected.
+
+All 4 authentication APIs have been successfully tested.
+
+| Result | Value |
+|:--- |:---|
+| Total APIs Tested | 4 |
+| Successful APIs | 4 |
+| Failed APIs | 0 |
+| Success Rate | 100% |
+| Overall Status | 🟢 PASS |
+
+✅ Conclusion
+
+The AuthRepository API integration has been successfully implemented and tested.
+
+The following authentication operations are working correctly:
+
+* ✅ Register API
+* ✅ Login API
+* ✅ Fetch Profile API
+* ✅ Update Profile API
+
+🎉 Final Test Result
+
+4 / 4 Tests Passed
+
+100% Success Rate
+
+Authentication Integration: 🟢 Working
+
+## 📌 Project Status
+
+| Module | Status |
+|:--- |:---|
+| Authentication | 🟢 Completed |
+| Register | 🟢 Completed |
+| Login | 🟢 Completed |
+| Fetch Profile | 🟢 Completed |
+| Update Profile | 🟢 Completed |
+| Unit Testing | 🟢 Completed |
+
+📄 License
+
+This project is developed for the Vehicle Repair Service application.
+
+⭐ Support
+
+If you find this project useful, consider giving the repository a ⭐.
+
+Vehicle Repair Service
+Flutter • Dart • REST API • AuthRepository • Unit Testing
+
+
 
 
 
