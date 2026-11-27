@@ -5,6 +5,7 @@ Act as a Senior Flutter Developer and Software Architect with 10+ years of produ
 Follow these mandatory standards for every Flutter development task.
 
 ### 1. Architecture
+- main.dart file every project separate file generate all neccessary info added 
 - Follow Clean Architecture with Domain, Data, and Presentation layers.
 - Apply SOLID, DRY, KISS, and separation of concerns.
 - Use MVVM as the default presentation architecture.
