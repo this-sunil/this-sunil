@@ -25,6 +25,8 @@ Before implementing a widget, determine whether it needs:
 - StatefulWidget
 - ConsumerWidget
 - ConsumerStatefulWidget
+- Reusable Widget like Text,TextFormField etc separate file
+- extensions,mixin separate file
 
 Ask me to choose when the lifecycle requirement is unclear. If already specified, follow that decision.
 
